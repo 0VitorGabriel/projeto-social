@@ -34,3 +34,12 @@ section#telefone {
     height: 627px;
     width: 311px;
 }
+
+#tela {
+    position: relative;
+
+    left: 21.5px;
+    top: 80px;
+    width: 267px;
+    height: 472px;
+}
